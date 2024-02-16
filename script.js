@@ -27,13 +27,13 @@ $(document).ready(function(){
 
     //saisie animation
     var typed = new Typed(".typing", {
-        strings: ["Blockchain Developer", "Web Developer", "Web Designer", "Consultant Blockchain", "Freelancer"],
+        strings: ["Blockchain Developer", "Web entrepreneur","Web Developer", "Web Designer", "Consultant Blockchain", "Freelancer"],
         typeSpeed: 100,
         backSpeed: 60,
         loop:true
     });
     var typed = new Typed(".typing-2", {
-        strings: ["Blockchain Developer", "Web Developer", "Web Designer","Consultant Blockchain", "Freelancer"],
+        strings: ["Blockchain Developer", "Web entrepreneur", "Web Developer", "Web Designer","Consultant Blockchain", "Freelancer"],
         typeSpeed: 100,
         backSpeed: 60,
         loop:true
